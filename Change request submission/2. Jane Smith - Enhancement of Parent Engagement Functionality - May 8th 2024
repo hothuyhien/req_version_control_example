@@ -1,0 +1,31 @@
+# Approved Change Request
+
+## Personal Information
+- **Name**: Jane Smith
+- **Role**: Parent
+- **Submission Date**: May 8th 2024
+
+## Contact Information
+- **Email**: janesmith@example.com
+- **Phone Number**: +1 234 567 891
+
+## Change Request Details
+- **Subject**: Enhancement of Parent Engagement Functionality
+- **Description of the Change Request**:
+  The proposal is to enhance the parent engagement functionality in the MindX LMS. This feature will provide parent-role accounts for easier tracking of their children's information, including grades, attendance, test reviews, teacher evaluations, etc. The system will also send emails to parents when the class ends or when the teacher/teaching assistant adds comments about the class. Additionally, the system will automatically send educational alerts via email to parents and students when a student’s learning process deviates from the norm.
+
+- **Reason for the Change**:
+  The current system does not have a method for sending teacher or teaching assistant feedback on the quality of the learning to student’s parents. This change will modernize and simplify the communication process between the academic central/school to parents and students.
+
+- **Impact of the Change**:
+  This change will primarily affect teachers, teaching assistants, and parents. It will reduce the workload for teachers and teaching assistants by automating the process of sending feedback to parents. Parents will benefit from easier access to information about their children's academic progress.
+
+- **Additional Comments or Suggestions**:
+  It would be beneficial to provide training for teachers and teaching assistants on how to use the new feature. Also, a user manual or FAQ section could be helpful for parents.
+
+**Change Request Status**: Approved
+**Version**: 1.1
+
+## Change History
+- **Version 1.0**: Initial approval of the change request.
+- **Version 1.1**: Enhanced the description of the change request and added a suggestion to provide a user manual or FAQ section for parents.

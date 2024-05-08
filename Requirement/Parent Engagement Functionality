@@ -1,0 +1,27 @@
+# Parent Engagement Functionality Documentation - Version 1.0
+
+## Overview
+The Parent Engagement Functionality in the MindX LMS is designed to provide a streamlined communication channel between parents and teachers. This feature allows parents to easily track their children's academic progress and receive updates from teachers.
+
+## Features
+
+### Parent-Role Accounts
+Parents are provided with accounts that allow them to log in to the system and view their children's information. This includes:
+
+- Grades: Parents can view their children's grades for each subject.
+- Attendance: Parents can check their children's attendance records.
+- Test Reviews: Parents can read reviews of their children's tests.
+- Teacher Evaluations: Parents can view evaluations provided by teachers.
+
+### Email Notifications
+The system sends email notifications to parents in the following scenarios:
+
+- End of Class: Parents receive an email when a class ends, providing a summary of what was covered in the class.
+- Teacher/Teaching Assistant Comments: When a teacher or teaching assistant adds comments about a class, parents receive an email with these comments.
+
+### Educational Alerts
+The system automatically sends educational alerts via email to parents and students when a student’s learning process deviates from the norm. This includes scenarios such as excessive absences or low grades.
+
+## Future Enhancements
+In future versions, we plan to add more features to further enhance the parent engagement functionality. We welcome feedback and suggestions from users to help us improve this feature.
+
